@@ -21,7 +21,7 @@
 title: The Scientific Ontology Network
 email: martin.glauer@ovgu.de
 description: >- # this means to ignore newlines until "baseurl:"
-  We are the Open Ontology Community. Our goal is the development of a large-scale network of interoperable, well-defined ontologies that capture knowledge in an accessible, consistent way.
+  We are the Scientific Ontology Network. Our goal is the development of a large-scale network of interoperable, well-defined ontologies that capture knowledge in an accessible, consistent way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://open-ontology-community.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
