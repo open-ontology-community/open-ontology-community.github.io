@@ -16,7 +16,7 @@ Ontology development is hard. Contrary to many beliefs, it is not just the extra
 Therefore, we decided to compile our years of experience in ontology development in order to develop a new guide for ontology development. The purpose of this guide is to function as a first stop for new ontology developers that does not delve as deep into the formal and philosophical background as other works do.
 
 <p align=center>
-<a class=".btn" href="https://github.com/scientific-ontology-network/ontology-development-guide/releases/download/v0.0.0b8/ontology-guide.pdf"> Get the Guide <a/>
+<a class=".btn" href="https://github.com/scientific-ontology-network/ontology-development-guide/releases/download/v0.0.0b8/ontology-guide.pdf"> Get the Guide </a>
 </p>
 
 # How to cite
