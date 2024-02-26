@@ -7,7 +7,7 @@ layout: home
 
 # Our Mission
 
-We are the Open Ontology Community. Ontologies have become a central component of modern knowledge representation systems such as knowledge graphs. The developmen of ontologies has been an organic process in many communites. While these processes are commendable, the heterogenous nature of the resulting ontologies in structure hinders interoperability across domains.
+Welcome to the Scientific Ontology Network. Ontologies have become a central component of modern knowledge representation systems such as knowledge graphs. The developmen of ontologies has been an organic process in many communites. While these processes are commendable, the heterogenous nature of the resulting ontologies in structure hinders interoperability across domains.
 
 > Our goal is the proliferation of open, interoperable ontologies by defining open development standards and connecting ontology experts across domains.
 
