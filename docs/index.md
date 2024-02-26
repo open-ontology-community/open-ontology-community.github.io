@@ -4,6 +4,3 @@
 
 layout: home
 ---
-
-
-# The Open Ontology Community
