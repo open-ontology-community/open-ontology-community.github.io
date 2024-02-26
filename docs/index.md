@@ -19,4 +19,12 @@ Therefore, we decided to compile our years of experience in ontology development
 <a class=".btn" href="https://github.com/scientific-ontology-network/ontology-development-guide/releases/download/v0.0.0b8/ontology-guide.pdf"> Get the Guide <a/>
 </p>
 
+# How to cite
+
+@misc{son-ontology-guide,
+  title = {A Practical Ontology Development Guide},
+  author = {Martin Glauer, Markus Schilling, Mirjam Stappel},
+  note  =  {\url{https://github.com/scientific-ontology-network/ontology-development-guide/releases/download/v0.0.0b8/ontology-guide.pdf},
+}
+
 [^1]: Neuhaus, Fabian, and Janna Hastings. ["Ontology development is consensus creation, not (merely) representation."](https://content.iospress.com/articles/applied-ontology/ao220273) Applied Ontology Preprint (2022): 1-19.
