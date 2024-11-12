@@ -25,7 +25,7 @@ Therefore, we decided to compile our years of experience in ontology development
 @misc{son-ontology-guide,
   title = {A Practical Ontology Development Guide},
   author = {Martin Glauer, Markus Schilling, Mirjam Stappel},
-  note  =  {\url{ https://github.com/scientific-ontology-network/ontology-development-guide/releases/download/v0.0.0b8/ontology-guide.pdf }},
+  note  =  {\url{ https://github.com/scientific-ontology-network/ontology-development-guide/releases/download/v0.1.0/ontology-guide.pdf }},
 }
 ```
 
